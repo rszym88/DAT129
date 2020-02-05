@@ -37,6 +37,7 @@ def scaledList():
         #for r in range(0,int(usrScale)):
             
         print('\r')          
+print("This is the end of the Proggram")
         
         
 scaledList()
