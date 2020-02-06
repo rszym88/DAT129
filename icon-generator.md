@@ -5,6 +5,8 @@
 Becoming a super hero is a fairly straight forward proc
 
 {% hint style="info" %}
+* Create 2 Lists, one for 
+
  Super-powers are granted randomly so please submit an issue if you're not happy with yours.
 {% endhint %}
 
